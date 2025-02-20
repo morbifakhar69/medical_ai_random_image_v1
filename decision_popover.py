@@ -6,9 +6,7 @@ from icecream import ic
 
 
 def decision():
-    # TODO: Format that buttons are "more beautiful"
-    IMAGE_WIDTH = 75
-    IMAGE_HEIGHT = 150
+
 
     if 'button_clicked' not in st.session_state:
         st.session_state["button_clicked"] = None
@@ -22,11 +20,11 @@ def decision():
         #image_container.markdown(image_container_styling, unsafe_allow_html=True)
         image=show_upload_images() #new updated upload image module
         height,width=image.size
-        height=150
-        width=150
+        height=250
+        width=250
         resized_image = image.resize((height,width))
         #st.image(resized_image, caption="Uploaded Image", use_column_width=True)
-        st.image(resized_image, caption="Uploaded Image")
+        st.image(resized_image, caption="Uploaded Image",use_column_width=True)
         #st.markdown('</div>', unsafe_allow_html=True)
 
     button_tile=st.container()
