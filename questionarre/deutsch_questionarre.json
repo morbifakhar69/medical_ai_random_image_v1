@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Ich verbringe viel Zeit damit mir Sorgen um meine Gesundheit zu machen.",
+        "options": [
+            "Ich mache mir keine Sorgen um meine Gesundheit.",
+            "Ich mache mir gelegentlich Sorgen um meine Gesundheit.",
+            "Ich verbringe viel Zeit damit, mir Sorgen um meine Gesundheit zu machen.",
+            "Ich verbringe die meiste Zeit damit, mir Sorgen um meine Gesundheit zu machen."
+        ]
+    },
+    {
+        "question": "Ich beachte Schmerzen stärker als die meisten anderen Menschen (in meinem Alter).",
+        "options": [
+            "Ich beachte Schmerzen weniger als die meisten anderen Menschen (in meinem Alter).",
+            "Ich beachte Schmerzen genauso stark wie die meisten anderen Menschen (in meinem Alter).",
+            "Ich beachte Schmerzen stärker als die meisten anderen Menschen (in meinem Alter).",
+            "Ich achte die ganze Zeit auf Schmerzen in meinem Körper."
+        ]
+    },
+    {
+        "question": "Ich achte permanent auf körperliche Empfindungen und Veränderungen.",
+        "options": [
+            "In der Regel sind mir körperliche Empfindungen oder Veränderungen nicht bewusst.",
+            "Manchmal sind mir körperliche Empfindungen oder Veränderungen bewusst.",
+            "Mir sind körperliche Empfindungen oder Veränderungen oft bewusst.",
+            "Mir sind ständig körperliche Empfindungen oder Veränderungen bewusst."
+        ]
+    },
+    {
+        "question": "Ich versuche mich oft gegen Gedanken an Krankheit zu wehren, schaffe es aber oft nicht.",
+        "options": [
+            "Nicht an Krankheit zu denken ist für mich kein Problem.",
+            "Die meiste Zeit fällt es mir leicht, nicht an Krankheit zu denken.",
+            "Oft gelingt es mir nicht, mich gegen Gedanken an Krankheit zu wehren.",
+            "Die Gedanken an Krankheit sind so stark, dass ich gar nicht mehr versuche, mich gegen diese zu wehren."
+        ]
+    },
+    {
+        "question": "Ich habe oft Angst, eine ernsthafte Krankheit zu haben.",
+        "options": [
+            "In der Regel habe ich keine Angst, eine ernsthafte Krankheit zu haben.",
+            "Manchmal habe ich Angst, eine ernsthafte Krankheit zu haben.",
+            "Ich habe oft Angst, eine ernsthafte Krankheit zu haben.",
+            "Ich habe immer Angst, eine ernsthafte Krankheit zu haben."
+        ]
+    },
+    {
+        "question": "Mir kommen regelmäßig Bilder in den Sinn, in denen ich mich als krank sehe.",
+        "options": [
+            "Mir kommen nie Bilder in den Sinn, in denen ich mich als krank sehe.",
+            "Mir kommen manchmal Bilder in den Sinn, in denen ich mich als krank sehe.",
+            "Mir kommen regelmäßig Bilder in den Sinn, in denen ich mich als krank sehe.",
+            "Mir kommen ständig Bilder in den Sinn, in denen ich mich als krank sehe."
+        ]
+    },
+    {
+        "question": "Es fällt mir oft schwer, mich von Gedanken über meine Gesundheit abzulenken.",
+        "options": [
+            "Ich habe keine Schwierigkeiten, mich von Gedanken über meine Gesundheit abzulenken.",
+            "Manchmal fällt es mir schwer, mich von Gedanken über meine Gesundheit abzulenken.",
+            "Es fällt mir oft schwer, mich von Gedanken über meine Gesundheit abzulenken.",
+            "Nichts kann mich von Gedanken über meine Gesundheit ablenken."
+        ]
+    },
+    {
+        "question": "Ich bin zunächst erleichtert, wenn mir mein Arzt versichert, dass alles in Ordnung ist, aber die Sorgen kehren immer nach einiger Zeit zurück.",
+        "options": [
+            "Ich bin dauerhaft erleichtert, wenn mir mein Arzt versichert, dass alles in Ordnung ist.",
+            "Ich bin zunächst erleichtert, aber die Sorgen kehren manchmal nach einiger Zeit zurück.",
+            "Ich bin zunächst erleichtert, aber die Sorgen kehren immer nach einiger Zeit zurück.",
+            "Ich fühle mich nicht erleichtert, wenn mir mein Arzt versichert, dass alles in Ordnung ist."
+        ]
+    },
+    {
+        "question": "Wenn ich von einer Krankheit höre, denke ich oft, dass ich diese Krankheit haben könnte.",
+        "options": [
+            "Wenn ich von einer Krankheit höre, denke ich nie, dass ich diese Krankheit selbst haben könnte.",
+            "Wenn ich von einer Krankheit höre, denke ich manchmal, dass ich diese Krankheit haben könnte.",
+            "Wenn ich von einer Krankheit höre, denke ich oft, dass ich diese Krankheit haben könnte.",
+            "Wenn ich von einer Krankheit höre, denke ich immer, dass ich diese Krankheit haben könnte."
+        ]
+    },
+    {
+        "question": "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, würde ich am liebsten sofort ärztlich abklären lassen, dass ich keine ernsthafte Krankheit habe.",
+        "options": [
+            "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, frage ich mich selten, was es bedeutet.",
+            "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, frage ich mich oft, was es bedeutet.",
+            "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, frage ich mich immer, was es bedeutet.",
+            "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, muss ich wissen, was es bedeutet."
+        ]
+    },
+    {
+        "question": "Gewöhnlich gehe ich davon aus, dass ich ein hohes Risiko habe, eine ernsthafte Krankheit zu entwickeln.",
+        "options": [
+            "Allgemein habe ich das Gefühl, dass ich ein sehr niedriges Risiko habe, eine ernsthafte Krankheit zu entwickeln.",
+            "Allgemein habe ich das Gefühl, dass ich ein eher geringes Risiko habe, eine ernsthafte Krankheit zu entwickeln.",
+            "Allgemein habe ich das Gefühl, dass ich ein mittleres Risiko habe, eine ernsthafte Krankheit zu entwickeln.",
+            "Allgemein habe ich das Gefühl, dass ich ein hohes Risiko habe, eine ernsthafte Krankheit zu entwickeln."
+        ]
+    },
+    {
+        "question": "Ich denke oft, dass ich eine ernsthafte Krankheit haben könnte.",
+        "options": [
+            "Ich denke nie, dass ich eine ernsthafte Krankheit haben könnte.",
+            "Ich denke manchmal, dass ich eine ernsthafte Krankheit haben könnte.",
+            "Ich denke oft, dass ich eine ernsthafte Krankheit haben könnte.",
+            "Ich denke sehr häufig, dass ich eine ernsthafte Krankheit haben könnte."
+        ]
+    },
+    {
+        "question": "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir oft schwer, an andere Dinge zu denken.",
+        "options": [
+            "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir nicht schwer, an etwas anderes zu denken.",
+            "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir manchmal schwer, an etwas anderes zu denken.",
+            "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir oft schwer, an etwas anderes zu denken.",
+            "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir immer schwer, an etwas anderes zu denken."
+        ]
+    },
+    {
+        "question": "Meine Familie/meine Freunde würden sagen, dass ich mir zu viele Sorgen um meine Gesundheit mache.",
+        "options": [
+            "Meine Familie/meine Freunde würden sagen, dass ich mir nicht genug Sorgen um meine Gesundheit mache.",
+            "Meine Familie/meine Freunde würden sagen, dass ich eine normale Einstellung zu meiner Gesundheit habe.",
+            "Meine Familie/meine Freunde würden sagen, dass ich mir zu viele Sorgen um meine Gesundheit mache.",
+            "Meine Familie/meine Freunde würden mich als 'Hypochonder' bezeichnen."
+        ]
+    }
+]

@@ -1,0 +1,365 @@
+image_id;fitzpatrick;simplified_label_text;expanded_label_text;skin;gender
+25ec566494732a0660ac5259b8d562eb.jpg;4;atopic_dermatitis;atopic_dermatitis;b;f
+9dccb89ae8b15e7b9063318022608d70.jpg;2;additional;acne;w;f
+5f0b80ae8369ac3fbe6317e5335eee0c.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;m
+b6958a50d2d882ea481d844cac116859.jpg;2;additional;rosacea;w;f
+5bc8c940685117ba78113fd68e1057d3.jpg;4;dermatomyositis;dermatomyositis;w;m
+83d4cbbef0819a37ffd34cf412a5403b.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;m
+f954464e440cffac551a98c8f7d11f57.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+bf8c825e289576c038dcccbd8a77444e.jpg;1;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+d6da17745dc1ffa645d4fc52e76a7418.jpg;1;additional;acne;w;f
+6ee4352859d2d4e52247864219202c69.jpg;0;secondary_syphilis;secondary_syphilis;w;o
+49db89c8154e7e7c7f5ea4efb5282801.jpg;1;dermatomyositis;dermatomyositis;w;m
+6bfb69e2afca6e315960a4fcd6c26c48.jpg;1;dermatomyositis;dermatomyositis;w;m
+a4784e46c797fa9392f44f878a5b9d1f.jpg;4;lyme;lyme;w;o
+4f510e991c94c7344e24e71be1fe497a.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+86fce51a1f693e83efe38b651ae2ab1e.jpg;5;lichen_planus;lichen_planus;b;f
+6eee1839627839064bcb4785f5882a7a.jpg;3;pityriasis rosea;pityriasis rosea;w;o
+6bf66e1f8f137126eab488c7a7892d02.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+1e7c9106644d4b54d11524d75d303a35.jpg;1;additional;seborrheic dermatitis;w;o
+8c3a38caabb04fd744f3c94a0fd1d41c.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+d00b2593bb28015fb1f10e3c4cf51c02.jpg;2;additional;livedo reticularis;w;o
+7bcb890f8c756781ea5d3059c0301821.jpg;5;lichen_planus;lichen_planus;b;o
+7f5c8ea3aa5aa20a964a192907595c5b.jpg;1;dermatomyositis;dermatomyositis;w;f
+fcb7c9a72a96211facd7a155ddf74678.jpg;5;additional;erythema elevatum diutinum;b;o
+274fcc8858e2524666aac80c117c1eae.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;f
+a28f0a5a865b7e2de69e9364e10495a7.jpg;4;pityriasis rosea;pityriasis rosea;w;m
+4d8a492fa2d07ed46a102fa4739969bb.jpg;3;lichen_planus;lichen_planus;w;o
+f3ac633073ee2050f4beb876d70ccc64.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+af4e43e3e696a009d1be531ad2b75e53.jpg;6;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;f
+54b59b3d59cfaa42cf1500a6cc0a3e61.jpg;2;secondary_syphilis;secondary_syphilis;w;o
+6a03bce4334d9c8565b12d45d1043f21.jpg;1;atopic_dermatitis;atopic_dermatitis;w;o
+f328f64ad2de05a7aac207abc410c25c.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+ff7c38d6396e526b62ae13c379512517.jpg;1;lyme;lyme;w;f
+9aac8fefb791c2ccf112c799b3d0c5b5.jpg;1;additional;allergic contact dermatitis;w;f
+fcdc74ae580c2d1e045b8976ed0d1f18.jpg;1;additional;neurotic excoriations;w;o
+2fea6b5b90f86188f6d7532a608af27a.jpg;1;additional;lupus erythematosus;w;f
+2ad3d53799e07730677ddab6d58b5986.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+266ef36ae1d1898e3c88069c22a9d001.jpg;4;secondary_syphilis;secondary_syphilis;b;o
+f87fd0f096d9836aec9efcdb90821a63.jpg;1;lyme;lyme;w;f
+1b3896849f2384b0255ed87712968460.jpg;6;lichen_planus;lichen_planus;b;f
+0fe97e9a15a1178d2b08253d79a2adc6.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+7d76730e0704db4985ed54c5d5c1e93b.jpg;6;lichen_planus;lichen_planus;b;o
+1ebdbc319c0e41c1416a74fe9a985cba.jpg;0;lyme;lyme;b;o
+efbcdff91845c8e31a42e5f1d15f0c64.jpg;6;additional;scleroderma;b;f
+c1f9889714255e1240600df7ae936403.jpg;6;secondary_syphilis;secondary_syphilis;b;o
+6e9088eff059120866664108d8a65526.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+7786ef6bc68f9ff3a95df5c997146247.jpg;1;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;f
+11832490169ff3d86af7a82c8694ea06.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+0066264501f73b1db09b3e2aa4dac0a0.jpg;6;pityriasis rosea;pityriasis rosea;b;m
+0c4a22136fd321c20b858dd0fe49b73f.jpg;3;lichen_planus;lichen_planus;w;o
+0c2e10eb4337df18bef17a326cbc9899.jpg;2;atopic_dermatitis;atopic_dermatitis;w;f
+05ec667cfd8a73d9d51b341af2ca9dc1.jpg;3;secondary_syphilis;secondary_syphilis;w;o
+83daf1f52820079569a0a8c619084f6c.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;f
+4ee18f789cecf807e4672b12a39a6f5c.jpg;1;additional;stasis edema;w;o
+db4a08b4024363b4d2eaa3026e84e764.jpg;1;additional;urticaria pigmentosa;w;o
+94a155e9f48fe1dc8e5471189762faf0.jpg;3;secondary_syphilis;secondary_syphilis;w;o
+bc7453e25b0428d521bfd7ea846ac450.jpg;3;lyme;lyme;w;o
+4fcc99459367a1e390c188e5f40fbfe7.jpg;6;additional;vitiligo;b;o
+1b76224b8c7dc025ce191fc370f52098.jpg;2;pityriasis rosea;pityriasis rosea;w;m
+0f4eda49cb424b315ca60cc25852edb6.jpg;1;atopic_dermatitis;atopic_dermatitis;w;m
+88dbcd1c90e1c55477d80ac6bab2f3c1.jpg;2;additional;keratosis pilaris;w;o
+41ae35aee628d12af26fa6399e9639b3.jpg;4;dermatomyositis;dermatomyositis;b;o
+cda26b644e6a8de58231a8e1d748da70.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;f
+e03b0cb2606b24586b91eeb42f2aabfe.jpg;5;additional;papilomatosis confluentes and reticulate;b;m
+1406a350474ff7ca75c8899bb66e208c.jpg;4;pityriasis rosea;pityriasis rosea;b;o
+10e65dcdfd1a4e5e0c0dbd582c6627b3.jpg;1;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+6d8f0a687424dd4b189efb226b8e2b9f.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+92e7af973a3996da44bf5acd32babc72.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+1b9c8360d791e2176411c8c467b1cca8.jpg;3;lichen_planus;lichen_planus;w;o
+a41731c6ccf0d65c7fdd468cbc6f2403.jpg;1;additional;scleroderma;w;m
+5be83c8af21ee0234511c0ca79b3a68c.jpg;1;atopic_dermatitis;atopic_dermatitis;w;o
+f572eb5920663d85ba8e334852415277.jpg;5;additional;urticaria pigmentosa;b;o
+8a51babcd712e18357328da65ecbf196.jpg;2;dermatomyositis;dermatomyositis;w;o
+5ef49d0ba34ac89686a5dd8aacbcaa77.jpg;4;lyme;lyme;b;o
+24450896c9dd873862ab2c595ef948d2.jpg;2;additional;fixed eruptions;w;o
+1fb8c970ce54ac79b889590b3cf11d72.jpg;5;lichen_planus;lichen_planus;b;o
+3a37374f8ce9f4f1c09eb6c8daa4da58.jpg;4;atopic_dermatitis;atopic_dermatitis;w;f
+41a0cdda39f31a626fb90e2e06ce7e4f.jpg;3;pityriasis rosea;pityriasis rosea;b;o
+42d721c042e8950d83bbebd5330abbc3.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+5217ed439faafefe05eb765bb64b7fa6.jpg;1;additional;tick bite;w;o
+6f0e64c259bf5bf16a5d9fdba8ccea58.jpg;3;lyme;lyme;w;o
+331271b9f69a5e73ae152fd56a23adab.jpg;5;additional;factitial dermatitis;b;f
+398505290bac3f20522e79113cacdf3e.jpg;5;additional;stevens johnson syndrome;w;o
+56e697186c86b0eb09f19021ebe4b9a8.jpg;2;additional;allergic contact dermatitis;w;o
+b693828bd104b6ed8be393d2e516ed50.jpg;2;additional;cheilitis;w;o
+4dfbf7e303f023af5d8f9631575fa4e7.jpg;1;additional;sarcoidosis;w;f
+c6b6a33b41369a1a2fb10130d6e581a4.jpg;5;pityriasis rosea;pityriasis rosea;b;o
+1c4aa0e09f599b5e26ca4c6cfc82339f.jpg;5;secondary_syphilis;secondary_syphilis;b;o
+8f24538425f2f07d9894954c9e807b31.jpg;1;lyme;lyme;w;o
+d5a23dff2fde59ce73a6ab9862f9bc08.jpg;6;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+3c9015001ca92a4029f1af9d52703042.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+02b17b314ff9b6240e2ded4e0bbd3170.jpg;3;secondary_syphilis;secondary_syphilis;w;o
+2c9393a7347e9baa519be86e3ba84319.jpg;3;atopic_dermatitis;atopic_dermatitis;w;o
+9163c0dc32069e063ef96a82941cccb3.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+9092ba84d536eebb58e04eb83f380193.jpg;5;additional;necrobiosis lipoidica;b;o
+fd4077da3e8aeb54185805ab8bb5cee5.jpg;2;additional;calcinosis cutis;w;o
+bbe774460efbb3a16b4d7c8814cb061d.jpg;2;secondary_syphilis;secondary_syphilis;w;o
+db758e4ced503e9e328442c25efc93f6.jpg;2;additional;psoriasis;w;o
+17ee353163c9547c20c4fbd6b8270603.jpg;4;lyme;lyme;w;o
+3da51dc6986066da1045259378941638.jpg;6;atopic_dermatitis;atopic_dermatitis;b;o
+702efb84bdc6e14a4222d6d001535a71.jpg;6;pityriasis rosea;pityriasis rosea;b;o
+17efdfe36901539abb7a0d85f2e8c3ab.jpg;2;additional;rosacea;w;o
+8e3e6476cc246b5632f55e206f8ee12c.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+02c82e0f093f9cdbfa17fb0bceb8fa31.jpg;2;atopic_dermatitis;atopic_dermatitis;w;o
+e9cc394f75adb132e86c7627d29fb2bb.jpg;4;secondary_syphilis;secondary_syphilis;b;o
+d76f83755d821a4235a25750408d6d80.jpg;6;pityriasis rosea;pityriasis rosea;b;f
+b8eb55ce4fad54cd41ab600f04716b00.jpg;5;lichen_planus;lichen_planus;b;o
+3ae9d59d68941df5b9633c526ef59bda.jpg;5;atopic_dermatitis;atopic_dermatitis;b;f
+0f1c3e692bbf25659b898bcfa3122c44.jpg;4;lichen_planus;lichen_planus;b;o
+444ac68b847ac8d5d629307bddebc213.jpg;6;atopic_dermatitis;atopic_dermatitis;b;o
+f4b7b14859102eec2ac72624c4128dd0.jpg;5;additional;lupus erythematosus;b;o
+8d4f1262a0534e1d906a21a1bcb8707d.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+0ab54547ce4e171cb06885fcf87d978b.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+468fd3b6da44399613ac823972d4abab.jpg;3;lyme;lyme;w;o
+b0a821a90fc14fb2996e9717ee37ded1.jpg;2;additional;acne;w;f
+7de3bb6dd594765e6c377f7ecf6ed928.jpg;6;atopic_dermatitis;atopic_dermatitis;b;o
+e34bf6e96294b8200e1d32f0fd1cc1b6.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;m
+b4f251859beca41dc02b895fd0f871b3.jpg;4;secondary_syphilis;secondary_syphilis;b;o
+0ca65e74079b47e98aaeea1f5aab6475.jpg;2;atopic_dermatitis;atopic_dermatitis;w;o
+43ce0e9ed2c019269535816fbe28581c.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+0ead5995e5e7d47e38310cff4adeca7a.jpg;2;lichen_planus;lichen_planus;w;o
+3c64fc9d1d75d88cc8f4183803edc5f3.jpg;5;additional;acne;w;o
+af38e5a05a156f35f425d4ed75f453cc.jpg;1;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+f347366ab65188676f45c3c79fe73b73.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+377890dbdb2dfe06aa0c410ca84c8c37.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+3e3d022279f868469f9c117d09d26590.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+6ffda568980ef2ff4900deb50d98865f.jpg;2;secondary_syphilis;secondary_syphilis;w;o
+88523b85b128b889f7bbc9ed545b3496.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+418200bcc74b0e6bf514180d1ba15b39.jpg;0;lyme;lyme;b;o
+1f8a764acfe2257617abd61833fbea83.jpg;2;pityriasis rosea;pityriasis rosea;w;m
+2b4873d75a090febfcc269d86f0dfc28.jpg;4;pityriasis rosea;pityriasis rosea;w;o
+e0751f70a2951820fa53eef59c594bd5.jpg;4;lyme;lyme;b;o
+2b0370bb6c521277542bfe286d41d4ce.jpg;5;additional;lupus erythematosus;b;o
+bb56045661f90d8fc836d17f100e001c.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+9f5eb3107bc355c57389397d8f42c40b.jpg;2;lichen_planus;lichen_planus;w;o
+9b42bd8b4eeecdca4cc3e9780322edf5.jpg;6;lichen_planus;lichen_planus;b;o
+72f79b485c5d77c3fe2cb8839891fa15.jpg;5;secondary_syphilis;secondary_syphilis;b;o
+5c4ba5494253128bd1296513e63c0e82.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+5e23bc3d33cca0f6937264afd2182127.jpg;1;lichen_planus;lichen_planus;w;f
+1ae030b1fb9f6c5297c935f510845695.jpg;2;additional;tungiasis;w;o
+972f4b68ef802a2cda7cae086253df3f.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;f
+1f7208ea5dbc7a45321e20ddb2ff2d15.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+0cb9fc4e5eb7e740a9e29eabb243f4a9.jpg;5;pityriasis rosea;pityriasis rosea;b;o
+5231e07a44718bb1cfde80240058632b.jpg;4;dermatomyositis;dermatomyositis;b;o
+6b2810107699e33fc84ba4b93c09c0d5.jpg;2;dermatomyositis;dermatomyositis;w;m
+3bc9f74695066ce0f7a94cc872e90afd.jpg;5;secondary_syphilis;secondary_syphilis;b;o
+e177c1b1ca76aebe0cb5c990d1bff462.jpg;6;additional;scleroderma;b;f
+03a96d915f90de2c8af7359741b9a2d7.jpg;1;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+1ce84e21bb1dba0344d301acc05e9f37.jpg;6;pityriasis rosea;pityriasis rosea;b;m
+711d1b12cef5a3aaa8db2cea0838a9ad.jpg;5;additional;urticaria;w;f
+ac5a3fb28c091580ccc7f79c738671b4.jpg;1;additional;tungiasis;w;o
+ff3d8b898d833420f60f085817997e1a.jpg;1;additional;rhinophyma;w;m
+1ba38182b6fa95722620667387680979.jpg;3;pityriasis rosea;pityriasis rosea;w;o
+2ea9479ba9fc44fddaeb164eadc0d0bd.jpg;2;lyme;lyme;w;o
+ac7559de90af0e164c64965ca3b49592.jpg;2;additional;lupus erythematosus;w;f
+3bf05552c0a5d8b799c70dfd9d1e8c9f.jpg;4;lichen_planus;lichen_planus;b;o
+900b7c133c30c6c0dd99ce896bd995e6.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;f
+f4b43af6ae7c16445b754e27ae4604bb.jpg;1;lyme;lyme;w;f
+d8f122b99779ad61a1fda1ee1cadeb84.jpg;1;additional;scleroderma;w;f
+5ab17dc9db3fe2f158aaa8dcaba58b8d.jpg;5;pityriasis rosea;pityriasis rosea;b;m
+5fe7d10d66c5d9b86ab12c1206d22fcd.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+90062ed9e2e8a96190a36266803e6d23.jpg;2;lyme;lyme;w;o
+0ed8d29908b7ec7aac0920fabbcdfc60.jpg;3;dermatomyositis;dermatomyositis;w;o
+f65be953633fdcdeaa43c8f91412bc80.jpg;6;dermatomyositis;dermatomyositis;b;o
+7bd45e78e16e48cfe72732eb534be5f5.jpg;5;pityriasis rosea;pityriasis rosea;b;o
+335a1caffad9b2ea13a4da28759ea660.jpg;3;secondary_syphilis;secondary_syphilis;w;f
+064e4ae9d102f045fd5dedcd81b7ad1d.jpg;2;additional;urticaria pigmentosa;w;f
+43702027dad160a3acc63ee63fb8efaa.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+d0e61eed5e208dc480c23df4489ec2aa.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+cf7dabcad2f5f600cf6efadcc6d1cc9b.jpg;1;pityriasis rosea;pityriasis rosea;w;o
+991a40ed0f44c6d66e2d432136b56e68.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+c16ca4d77bb5e35162976c3af2cec242.jpg;6;lichen_planus;lichen_planus;b;o
+5300196922e0e0a20a9ee6d9f751d70b.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+0b918cc26134bdc39d034f397c6dc009.jpg;5;atopic_dermatitis;atopic_dermatitis;b;o
+6f432785eae97c58f413cfaeca2059f6.jpg;1;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+e1c5e29b0d023a6e9b86f5991f38cb47.jpg;6;lichen_planus;lichen_planus;b;o
+874c2a5b78b0a50a711328258dc608ee.jpg;6;additional;necrobiosis lipoidica;b;o
+2ef0d915825ac84637e9832fc8d786aa.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;f
+760a4a3453951d02dbf2228293639fc5.jpg;4;dermatomyositis;dermatomyositis;w;f
+6bdd941cd35e16c6eb38bf0ea215469c.jpg;4;secondary_syphilis;secondary_syphilis;w;m
+5e67ff394856122c86db1372bda31de5.jpg;2;additional;lupus erythematosus;w;f
+c2ba787029af2c423b039759c0f7dc97.jpg;2;additional;hidradenitis;w;f
+441904da8c7a742db13b0a505570516e.jpg;4;pityriasis rosea;pityriasis rosea;w;o
+ab3baa16c4a71f49d798c814747fa6e1.jpg;3;dermatomyositis;dermatomyositis;w;o
+2c88133e38ba53c6acfc22a5532a5176.jpg;4;atopic_dermatitis;atopic_dermatitis;w;o
+d004cb97466c65e1c951a288d74baca0.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+0c724e3d30fb694ca488aadba483d4c0.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+126ba4ed48561892ebe1e3405c9f685c.jpg;1;additional;scabies;w;m
+7e5c920dbfe16f45af8959108d620094.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+4f02266ef07a2c96569aba629326af85.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;f
+4f93ae11350250dbfd20c2bd7b176b17.jpg;0;lyme;lyme;b;m
+64a7f51fd8ccc3d3e28e2c212473c7c5.jpg;2;lichen_planus;lichen_planus;w;m
+0b185c2852e924db6ece8efe1f7173d5.jpg;2;atopic_dermatitis;atopic_dermatitis;w;m
+5afa19ff0546f833e71bc78d4d190275.jpg;4;pityriasis rosea;pityriasis rosea;b;m
+47faf71cdedcee8f4075132570de2b3a.jpg;1;lichen_planus;lichen_planus;w;o
+9610f6d3362786b35fdf8de08b15841d.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;f
+4c6297ecc14ea1acd3fe45304b98a8ab.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+d1c875e6a77165f9954570121a4bf7b9.jpg;6;additional;nematode infection;b;o
+a0c8058a77cb50352e34f82ffff4b664.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+c9b6269c36df7d726e7394ca5173fca8.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+54ead01e76eba04a6faa54f49747b5c6.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+2cc61572d7bcf492c25a0ede978600d5.jpg;6;additional;sarcoidosis;b;f
+b3d469ac2cc434558f850b09a89ea2d3.jpg;1;pityriasis rosea;pityriasis rosea;w;m
+22af984a7ffb239c451ffea0e5f47b07.jpg;6;additional;tick bite;w;o
+9b0a8bf1ad55bab5a7417ac14dd95ae7.jpg;6;additional;granuloma annulare;b;m
+c7fabd8f3bd44635f9254ebad77378cf.jpg;1;additional;cheilitis;w;f
+4b77b342edf2e3e43dcda843308cc58e.jpg;6;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+6afbc86d8b1719ef9ebbf1db2c8538ff.jpg;2;pityriasis rosea;pityriasis rosea;w;m
+5a52c55b89887f64a88ecf994ea1e6dd.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;o
+4d5d71fb190627f964a429de4802ef60.jpg;0;lyme;lyme;b;m
+75c407499841321672ccaa0132ecef2a.jpg;6;dermatomyositis;dermatomyositis;b;o
+b9a933b0f60a2a76ec71356ca41074c9.jpg;2;additional;sarcoidosis;w;o
+33ec1df199d222377a50d32ca8714d4c.jpg;1;lichen_planus;lichen_planus;w;o
+114f3a55954c6c174e30b90a05428e69.jpg;6;atopic_dermatitis;atopic_dermatitis;b;o
+147096ef324c69c708c229922a8ff7a1.jpg;5;additional;papilomatosis confluentes and reticulate;b;m
+02b64e149240b462e81dd7410c145b59.jpg;5;atopic_dermatitis;atopic_dermatitis;b;o
+628c3e8ca6cf4e1d3b3a7eaedc963105.jpg;1;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+2a8afb1a06f2ca8d1468c6abe4de0ca8.jpg;1;atopic_dermatitis;atopic_dermatitis;w;o
+f9414071a0fdd537488038b57e237966.jpg;6;additional;acanthosis nigricans;b;m
+492a772f1a5c6ff11a4f01f62ccf2ee3.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+28c35435ff9865099bdb3d59927e399d.jpg;3;lyme;lyme;w;m
+3d822b3a7b2041a2a65a098a4febcef1.jpg;3;dermatomyositis;dermatomyositis;w;f
+3d8d7229294dc0011bcd9f8c34703b86.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+1f128ca0180906928987e107682fd941.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+442e0d96558f045b10a1fc46a8c342e2.jpg;1;lyme;lyme;w;o
+0b49d08e4cdade3f6dcffbd0c0b8b8c0.jpg;6;secondary_syphilis;secondary_syphilis;b;o
+07592526d0c34df3fe6b3bceb2a969b4.jpg;0;lyme;lyme;b;o
+248bfd193e520144fac461e0cd4f609c.jpg;1;secondary_syphilis;secondary_syphilis;w;m
+5fbf8180a2ecb8d9149140119a903bdf.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+4a23754af2cc0d04759cf9d0800f9420.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+bfa22b164bf15e40f4897fde5d9a7c70.jpg;4;lyme;lyme;w;o
+7caa8de80253fa8a47dc67f265cab9d6.jpg;2;dermatomyositis;dermatomyositis;w;f
+3b19599490fdd12f405448e3e623133e.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+4fed2c9263e6b8b45145fcfe549347d4.jpg;3;lichen_planus;lichen_planus;w;o
+0d3b86b9e7843c09422de2979004de77.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+eb95f4dad88da12a0b6fa86ba650a66b.jpg;3;lyme;lyme;w;m
+eff7a873ad735f3976b551d69d6c7e76.jpg;0;lyme;lyme;w;m
+392e0c06afb149dc6acc223174b7d24d.jpg;1;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+1d548487c6828ba27d4d40f803acf030.jpg;5;additional;tungiasis;b;o
+34b22791cee2fc84e2b6fb79f1ffeb1a.jpg;5;dermatomyositis;dermatomyositis;b;m
+72bc638c452173c9fe858e6c3f9c1548.jpg;2;additional;rhinophyma;w;m
+3a6a24ba22604e37a8fc8e5c7dfb0b4c.jpg;6;additional;acne;b;m
+4c7036fa3f2fa7dee511928403f679ab.jpg;1;lichen_planus;lichen_planus;w;o
+cff0b65e459ff1fdb5d2654519eab4a7.jpg;2;pityriasis rosea;pityriasis rosea;w;o
+1e4809ab0ddcf3e525a5727e13b257ae.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+3940e30593f2600440b6eb8c3e9d30b2.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+69cd77d105d3aeb8b7282a4c1cc28ce6.jpg;1;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+ca23c32063f4956fc0c8135205204935.jpg;1;pityriasis rosea;pityriasis rosea;w;o
+5aab89bf105f0f0f78cc57294a0f317a.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+306a7fb4588baf4744f0f9da5548f6b0.jpg;6;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;f
+267518e9fd4adadae0b28dd8edb0d328.jpg;6;additional;scleroderma;b;m
+4ebd12c3d11a74612b107e82d0a3928c.jpg;2;dermatomyositis;dermatomyositis;w;f
+cf26d48947b7a20bd56e650022dbb17f.jpg;2;pityriasis rosea;pityriasis rosea;w;o
+fac289559602f877efbc8fddc3b445ca.jpg;3;secondary_syphilis;secondary_syphilis;w;m
+8f17ee816240773b34cd1075b5179aa1.jpg;5;atopic_dermatitis;atopic_dermatitis;b;f
+98bef7c8cc4521eab1f8cced801fdb11.jpg;4;dermatomyositis;dermatomyositis;w;f
+1d2d2d0c9bdcbaf7c14a4cc311562237.jpg;3;secondary_syphilis;secondary_syphilis;b;m
+3c4f10c630e4fd8114204742a5fbcd79.jpg;1;atopic_dermatitis;atopic_dermatitis;w;m
+0bac6f2258c2693378bc37f6a80c4582.jpg;3;atopic_dermatitis;atopic_dermatitis;w;o
+8e0dbc65555eca9b01e3e3782569b71c.jpg;5;additional;lupus erythematosus;b;f
+8e294b5b1b64b6250fcd4c2c3c2dcc62.jpg;6;atopic_dermatitis;atopic_dermatitis;b;f
+673023e413bd6c13a22159b7404ee356.jpg;1;additional;vitiligo;w;f
+8f5c462175468864c1d9e5bf69a252ce.jpg;5;additional;psoriasis;w;o
+6abe4a46e04ae8b80cd5b935cec961fc.jpg;4;secondary_syphilis;secondary_syphilis;b;o
+961af1027bf56284401eea304d7f687d.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+1d880c5d06148a789e33af7c75cd7282.jpg;2;additional;scabies;w;m
+531fcb9ba489344f3f58c501239f6ab5.jpg;5;secondary_syphilis;secondary_syphilis;b;f
+1fd6a2e31917ffbd6e592f398cd8aed6.jpg;2;dermatomyositis;dermatomyositis;w;f
+63be8d11de80340ef5b3ab9e5ea9ff3a.jpg;4;pityriasis rosea;pityriasis rosea;b;f
+58ad197a8d47543ffa5719d80ecd7365.jpg;4;lichen_planus;lichen_planus;b;o
+3cb19992ca7a532de9548641f153820b.jpg;1;lichen_planus;lichen_planus;w;o
+d555e5fc8d7df401240ce04d2357ec1b.jpg;0;lyme;lyme;b;o
+521062f08459a4c1ed7e38ce7b461771.jpg;2;secondary_syphilis;secondary_syphilis;w;o
+8da0ad261c76d6ed8587ad2275664650.jpg;4;lichen_planus;lichen_planus;b;m
+12331d50602fbe2dcec271fbebc211fa.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;f
+0d352d591a2640c11f5d548d01f11d52.jpg;4;atopic_dermatitis;atopic_dermatitis;b;o
+013167a815535018c0752179024887bd.jpg;2;secondary_syphilis;secondary_syphilis;w;m
+8a39410ce1ae1515d3a3d4fb15df5685.jpg;6;additional;lichen amyloidosis;b;m
+5e38ea37feacdbc77357a59ca8c48043.jpg;1;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;m
+17fe027453643b7f417c88964af2e535.jpg;1;additional;calcinosis cutis;w;f
+5f29bff0b7f2e153a7ae4d58dabf4b99.jpg;1;dermatomyositis;dermatomyositis;w;o
+e82f9780ddd8dd50227f1327d30f4bbb.jpg;6;additional;xanthomas;b;m
+0e3e08e439f73a72167aa6c7e6e7e574.jpg;1;lichen_planus;lichen_planus;w;o
+9a9e89528c374d6d66a7ebddedc15757.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+6fa562e207d7c7d3ad9c920e84637f8e.jpg;6;additional;scleroderma;b;f
+a6f73a22dc647ea15c5c1654ef15d93d.jpg;6;additional;acanthosis nigricans;b;m
+b51bfdb3979aca780ac243c912dc7891.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+06e61e194c85bfec487f98c8b4833376.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+6cd78f548d8f1d6350e44ea788f1a796.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+cec2228d074378a834439f7b04aebdfd.jpg;6;additional;vitiligo;b;o
+8c1209c7954339254f17dd161059d02b.jpg;3;pityriasis rosea;pityriasis rosea;b;o
+5c5b3a60e6fcf6ee80439a7402f76131.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;f
+4d7762c63255dcdf4de2d8fd7865b80d.jpg;4;dermatomyositis;dermatomyositis;w;f
+4a09f1daccce05916e8715d76231bfee.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+4636aa70443a09da047663421257d2a6.jpg;2;additional;erythema nodosum;w;o
+6a683e627b103648b8a2963cce4da275.jpg;1;dermatomyositis;dermatomyositis;w;o
+e079fd28c7d384a154feaeb71f8c2630.jpg;3;lyme;lyme;w;o
+2b79487e196c0ef834431783c733b78b.jpg;3;dermatomyositis;dermatomyositis;w;o
+82b29ce05524ec6451488eb244536249.jpg;5;dermatomyositis;dermatomyositis;b;o
+90e5afe86a2736fa5d86c6cb8d740dea.jpg;4;pityriasis rosea;pityriasis rosea;b;o
+3a1ca4d1c334fd3001c8101f4e6d9f94.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;m
+c01407169c44578359c4c5817cbc12c9.jpg;3;secondary_syphilis;secondary_syphilis;b;o
+0ba1c99828f163b4aa0d69a97748a347.jpg;3;lichen_planus;lichen_planus;b;o
+99c364f2cd846a9a8e80b509d942878c.jpg;3;pityriasis rosea;pityriasis rosea;w;o
+38780f5b898ea1f7c731735aad2c6d5c.jpg;5;lichen_planus;lichen_planus;b;o
+2f61eb2a358bb9cacbe0195946470738.jpg;2;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+c699fbf373baa0193e9382d1a94d105e.jpg;1;additional;keratosis pilaris;w;o
+1c2e554b2725cba72d1c5412e40209f4.jpg;3;atopic_dermatitis;atopic_dermatitis;w;m
+176892dfc10eabf4ad8b1f50ec5df7e5.jpg;5;dermatomyositis;dermatomyositis;b;o
+7f0e6a3dbe064e24656a92e377a2b54b.jpg;5;additional;keloid;b;o
+4ec7b1d88fcefbac2ebbc3267bffb9b6.jpg;2;dermatomyositis;dermatomyositis;w;f
+6d40a929e6372c31a6efeb9abddb5067.jpg;2;lyme;lyme;w;m
+bf2ec8673d8dcc435ac5acd9c77902be.jpg;4;pityriasis rosea;pityriasis rosea;w;o
+2283401632b08dd9f42191c6cd2f4a0e.jpg;2;pityriasis rosea;pityriasis rosea;w;o
+7f172b801cacb5ac7a1157df1181c548.jpg;3;secondary_syphilis;secondary_syphilis;w;o
+d1fb87ee7ee50f997cd6497dd90d6bbb.jpg;2;additional;acne;w;f
+5bb937e7eea1646428be5837d79a7b4f.jpg;2;additional;scleroderma;w;f
+fe369803dcca197d7e053f1a72a7b1c2.jpg;1;lyme;lyme;w;o
+912c327f83e362c38b76fde79c4e9e9a.jpg;4;lichen_planus;lichen_planus;b;o
+0c136d7bb6fdb92049f9509c381388ef.jpg;3;atopic_dermatitis;atopic_dermatitis;w;o
+59d49d7841de202a6f12c44a44cbe0ad.jpg;4;lichen_planus;lichen_planus;b;o
+5caf3b0f191ef4fcffbd11bd6cd460a8.jpg;4;secondary_syphilis;secondary_syphilis;b;o
+f118649acc6d822facc2f3bd32dd52e0.jpg;1;dermatomyositis;dermatomyositis;w;f
+67fb52eee55d2ee661a80dc4f60408fc.jpg;5;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+a040f6de4db09e3c01949ad13bfc330a.jpg;5;additional;fixed eruptions;b;o
+0a8dc887a107b7098a6b26db63972c11.jpg;1;atopic_dermatitis;atopic_dermatitis;w;m
+c94ce27e389f96bda998e7c3fa5c4a2e.jpg;5;additional;keloid;b;m
+8c8e5d33b4a3277eafec71c2f05ffa8c.jpg;0;lyme;lyme;b;f
+14a46eb43de79c29b29fb0f869965a74.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;w;o
+5ae4acc104d572788de6d0cced0223e7.jpg;0;lyme;lyme;b;o
+b35e33d66e25c189e187ffa1c8baef91.jpg;5;dermatomyositis;dermatomyositis;b;m
+53c29a2e7e4ae55715aa61dbfb6c4775.jpg;3;dermatomyositis;dermatomyositis;w;o
+13c08e3f161836cd5b39c5ce840c327b.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+8b5813f940915279bed54ea5b41b9abc.jpg;2;additional;rosacea;w;m
+0b76da7ab2ab57c5df637bebb09ab87c.jpg;2;atopic_dermatitis;atopic_dermatitis;w;m
+6c14a093bddd5c570e8657e7ddd380a1.jpg;4;atopic_dermatitis;atopic_dermatitis;b;o
+0ce67399ec989a649c473733a49218f8.jpg;2;dermatomyositis;dermatomyositis;w;f
+a27eb6f5242fc68a17322014a3ac33b2.jpg;3;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+0b509e4af2d8bd0d07724e68dc0114b1.jpg;3;pityriasis rosea;pityriasis rosea;b;o
+a61103096131b0e2673f234acd53ed26.jpg;5;additional;granuloma annulare;b;f
+60fb88f74742bc8c528b9034125d66f5.jpg;1;secondary_syphilis;secondary_syphilis;w;o
+06398ba5f1b36bba70cd09c8d8f98e78.jpg;3;lyme;lyme;w;o
+27c9a5afe4420bce6c93f6a6a2a84e8a.jpg;3;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;m
+0666fca007f781f3895e9db579221875.jpg;5;lichen_planus;lichen_planus;b;o
+4a8b163be0f34adad2c1b5b2529f5f8c.jpg;5;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+0ced16a6dcabac857f513c743a398a08.jpg;4;lichen_planus;lichen_planus;b;o
+df3ef69ba65eec92ecbda6b82e27349f.jpg;5;additional;lichen simplex;b;m
+ae46f14881395aa37187f93d20a1fc8a.jpg;5;additional;vitiligo;b;f
+cb0af0fcc0e78dcd7583689ee36f95d0.jpg;6;additional;scleroderma;b;f
+3da1aaf9bd000689fe9cef6f4d2b60c2.jpg;4;atopic_dermatitis;atopic_dermatitis;w;f
+9298a79b4bc0eabc065c02002ed06b63.jpg;3;pityriasis rosea;pityriasis rosea;w;o
+c9e2c4f670417c5a5e30e6f1e5178883.jpg;6;atopic_dermatitis;atopic_dermatitis;b;m
+44eacfeaa2112729972b379efb56b226.jpg;4;secondary_syphilis;secondary_syphilis;w;f
+641e5b4711d6b77a3687b61f5525a35c.jpg;5;dermatomyositis;dermatomyositis;b;f
+0c80d019a4a3db3b00b8611a1a019858.jpg;2;dermatomyositis;dermatomyositis;w;f
+3cbf9a96173badd32b0b0bcabb157203.jpg;4;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;b;o
+38c61266de75ddf6a7384e1585af5eb9.jpg;1;pityriasis rosea;pityriasis rosea;w;o
+ceef1771cf861deb79c37c61f0f18f8a.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+13e486442539071c30cc164baf526bc9.jpg;2;dermatomyositis;dermatomyositis;w;o
+65a2c590838cd1c7229c36c270adc522.jpg;4;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;m
+06a65434ce244edbfb3bcf710d3a1e7a.jpg;2;pityriasis_rubra_pilaris;pityriasis_rubra_pilaris;w;m
+030ab080d0a380f3f5711d981b4dba98.jpg;2;additional;factitial dermatitis;w;f
+91a11c97cd7d3aa6b45d1438c32e8b0b.jpg;6;dermatomyositis;dermatomyositis;b;o
+2092c480d793d5e886431c7e19ecac3d.jpg;6;cutaneous_t-cell_lymphoma;cutaneous_t-cell_lymphoma;b;o
+refinery29-rosacea-dark-skin.jpg;6;attention_check;acne;b;f
