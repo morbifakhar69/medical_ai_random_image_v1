@@ -28,11 +28,11 @@ def decision():
         #st.markdown('</div>', unsafe_allow_html=True)
 
     button_tile=st.container()
-    with button_tile.popover('Do you wish to take an appointment?',use_container_width=True):
-            st.button("Yes", key="btn1",
-                            on_click=lambda: st.session_state.update(button_clicked="Make appointment"),use_container_width=True)
-            st.button("No", key="btn2",
-                            on_click=lambda: st.session_state.update(button_clicked="Do not make appointment"),use_container_width=True)
+    with button_tile.popover('Möchten Sie einen Termin vereinbaren?',use_container_width=True):
+            st.button("Ja", key="btn1",
+                            on_click=lambda: st.session_state.update(button_clicked="Termin vereinbaren"),use_container_width=True)
+            st.button("Nein", key="btn2",
+                            on_click=lambda: st.session_state.update(button_clicked="Keinen Termin vereinbaren"),use_container_width=True)
 
 
 

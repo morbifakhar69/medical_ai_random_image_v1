@@ -13,23 +13,23 @@ def survey():
 
     file_path = "questionarre/deutsch_questionarre_slider.json"
 
-    st.title("📋 Survey")
-    st.subheader("Demographics", divider='gray')
+    st.title("📋 Umfrage")
+    st.subheader("Demografische Daten", divider='gray')
 
     # Apply custom CSS for borders
     # User Inputs
-    st.text("Please enter your name")
+    st.text("Bitte geben Sie Ihren Namen ein")
     name = st.text_input("Name", value=st.session_state["survey"].get("name", ""))
-    st.text("Please select your age from the dropdown")
+    st.text("Bitte wählen Sie Ihr Alter aus dem Dropdown-Menü")
 
-    age = st.number_input("Age", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
+    age = st.number_input("Alter", value=st.session_state["survey"].get("Alter", 18), min_value=0, max_value=100)
 
-    st.text("Please select the gender")
-    gender = st.radio("Gender", ["Male", "Female"],
-                      index=0 if st.session_state["survey"].get("gender", "Male") == "Male" else 1)
+    st.text("Bitte wählen Sie das Geschlecht")
+    gender = st.radio("Geschlecht", ["Männlich", "Weiblich"],
+                      index=0 if st.session_state["survey"].get("gender", "Männlich") == "Männlich" else 1)
 
-    skin_color = st.radio("Skin Color", ["White", "Black"],
-                          index=0 if st.session_state["survey"].get("skin_color", "White") == "White" else 1)
+    skin_color = st.radio("Hautfarbe", ["Weiß", "Schwarz"],
+                          index=0 if st.session_state["survey"].get("skin_color", "Weiß") == "Weiß" else 1)
 
     # Load questions from JSON
     questions = []
@@ -48,17 +48,18 @@ def survey():
         st.session_state["survey"]["responses"] = {}
 
     options = [
-        "Disagree strongly",
-        "Disagree moderately",
-        "Disagree a little",
-        "Neither agree nor disagree",
-        "Agree a little",
-        "Agree moderately",
-        "Agree strongly"
+      "stimme überhaupt nicht zu",
+        "stimme mäßig zu",
+        "stimme nicht zu", 
+        "stimme wenig zu",
+        "stimme weder zu noch widerspreche ich",
+        "stimme ein wenig zu",
+        "stimme mäßig zu",
+        "stimme stark zu"
              ]
 
-    st.subheader("Questionnaire", divider='gray')
-    st.text("Below there are 14 questions with 4 options each thats fits for you. \nPlease select what is more appropiate for you")
+    st.subheader("Fragebogen", divider='gray')
+    st.text("Im Folgenden finden Sie 14 Fragen mit jeweils 4 Optionen, die für Sie geeignet sind. \nBitte wählen Sie aus, was für Sie am besten geeignet ist")
     
     responses= {}
     with st.form(key="my_form"):

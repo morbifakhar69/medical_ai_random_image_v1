@@ -13,7 +13,7 @@ def save_upload_images(image_file):
         file_path = os.path.join(UPLOAD_FOLDER, image_file.name)
         with open(file_path, "wb") as f:
             f.write(image_file.getbuffer())
-        st.success(f"✅ Image uploaded successfully")
+        st.success(f"✅ Bild erfolgreich hochgeladen")
         st.session_state["saved_image"] = file_path
 
 

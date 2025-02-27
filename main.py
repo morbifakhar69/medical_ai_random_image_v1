@@ -66,13 +66,13 @@ def main():
         #this is a the chat container with only title , header and image uploader
         with st.container():
                 print('Inside chat page container with only title , header and image uploader')
-                st.title("🤖 Medical Diagnostic Assistant")
+                st.title("🤖 Medizinisch-diagnostische Assistentin")
                 #col1, col2 = st.columns([1, 1]) #making two columns one for image upload and one for camera input
-                st.subheader("Diagnose your skin condition with the Medical Assistant", divider="gray")
+                st.subheader("Diagnostizieren Sie Ihren Hautzustand mit dem Medizinischen Assistenten", divider="gray")
                 image_placeholder=st.empty() #this is a placeholder for image upload
                 with image_placeholder:
                     print('inside image placeholder')
-                    uploaded_file_1 = st.file_uploader("Upload from Files", type=["png", "jpg", "jpeg"])
+                    uploaded_file_1 = st.file_uploader("Bitte laden Sie Ihr Foto hoch", type=["png", "jpg", "jpeg"])
                     #uploaded_file_1=st.camera_input("Upload your Image here",label_visibility="collapsed")
                     if uploaded_file_1:
                          st.session_state["file_uploaded"] = True
@@ -86,7 +86,7 @@ def main():
                         image_path = st.session_state["saved_image"] #update state.saved_image with image path
                         initialize(image_path)  #Pass the image path during initialization
         if st.session_state['file_uploaded']:
-            st.subheader("Describe your situation to the assistant. You can also book an appointment with our doctor", divider="grey")
+            st.subheader("Schildern Sie dem Assistenten Ihre Situation. Sie können auch einen Termin bei unserem Arzt buchen", divider="grey")
             decision() #this loads the chat and buttons
             image_placeholder.empty()
             chat_page()
