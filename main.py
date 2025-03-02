@@ -78,13 +78,13 @@ def main():
                         st.session_state["file_uploaded"] = True
 
                     if uploaded_file_1:
-                     with st.status("Uploading Image"):
-                        st.write("Saving Image..")
+                     with st.status("Bild hochladen, bitte warten.."):
+                        st.write("Bild speichern.")
                         
                         save_upload_images(uploaded_file_1)
                         image_path = st.session_state["saved_image"]
 
-                        st.write("Sending data to Agent..")
+                        st.write("Senden von Daten an Agent..")
                         initialize(image_path)
                         
                         
