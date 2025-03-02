@@ -69,6 +69,7 @@ class XAIAssistant:
 
         # Store the assistant's response or any other relevant information as needed
         return response.json()
+    
 
     def encode_image(self, image_path):
         with open(image_path, "rb") as image_file:

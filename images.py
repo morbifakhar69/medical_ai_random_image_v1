@@ -13,8 +13,10 @@ def save_upload_images(image_file):
         file_path = os.path.join(UPLOAD_FOLDER, image_file.name)
         with open(file_path, "wb") as f:
             f.write(image_file.getbuffer())
-        st.success(f"✅ Bild erfolgreich hochgeladen")
         st.session_state["saved_image"] = file_path
+        print(st.session_state["saved_image"])
+        st.success(f"✅ Bild erfolgreich hochgeladen")
+        
 
 
 def load_skin_data():
@@ -53,22 +55,22 @@ def get_images(skin_color):
             selected_image_key = random.choice(matching_keys)
             image_path=os.path.join("skin_images", selected_image_key)
             st.session_state.selected_image_path = image_path
-        print(f'Selected Image path: {image_path}')
     return st.session_state.selected_image_path  # Return the path of the selected image
 
 
 def show_upload_images():
-    if st.session_state.saved_image:
-        print(f'Selected Image path in Markdown: {st.session_state.saved_image}')
-        image = Image.open(st.session_state.saved_image)
+    print('Inside show Upload: ',st.session_state["saved_image"])
+    if st.session_state["saved_image"]:
+        image = Image.open(st.session_state["saved_image"])
         return image
     else: print('No image in session state found')
+
+
 def show_images():
     # Überprüfen, ob das Bild bereits ausgewählt wurde
 
     # Bild öffnen und anzeigen
-    if st.session_state.selected_image_path:
-        print(f'Selected Image path in Markdown: {st.session_state.selected_image_path}')
-        image = Image.open(st.session_state.selected_image_path)
+    if st.session_state.saved_image:
+        image = Image.open(st.session_state.saved_image)
         return image
     else: print('No image in session state found')

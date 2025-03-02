@@ -38,7 +38,8 @@ class Sciebo:
                 response = requests.put(sciebo_url, data=file, auth=(cls.SCIEBO_USERNAME, cls.SCIEBO_PASSWORD))
 
             if response.status_code in [201, 204]:
-                st.success(f"✅ Image '{file_name}' uploaded successfully to Sciebo.")
+                pass
+                #st.success(f"✅ Image '{file_name}' uploaded successfully to Sciebo.")
             else:
                 st.error(f"❌ Failed to upload image. Sciebo Response: {response.status_code}")
                 print(response.text)
@@ -67,7 +68,8 @@ class Sciebo:
                 response = requests.put(sciebo_url, data=file, auth=(cls.SCIEBO_USERNAME, cls.SCIEBO_PASSWORD))
 
             if response.status_code in [201, 204]:
-                st.success(f"✅ Session state uploaded successfully as '{json_file_name}' to Sciebo.")
+                pass
+               #st.success(f"✅ Session state uploaded successfully as '{json_file_name}' to Sciebo.")
             else:
                 st.error(f"❌ Failed to upload session state. Sciebo Response: {response.status_code}")
 

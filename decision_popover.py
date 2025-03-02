@@ -17,14 +17,14 @@ def decision():
         #image = show_images()
     image_container=st.container()
     with image_container:
-        #image_container.markdown(image_container_styling, unsafe_allow_html=True)
+       
         image=show_upload_images() #new updated upload image module
         height,width=image.size
         height=250
         width=250
         resized_image = image.resize((height,width))
         #st.image(resized_image, caption="Uploaded Image", use_column_width=True)
-        st.image(resized_image, caption="Uploaded Image",use_column_width=True)
+        st.image(resized_image, caption="Hochgeladenes Bild",use_column_width=True)
         #st.markdown('</div>', unsafe_allow_html=True)
 
     button_tile=st.container()

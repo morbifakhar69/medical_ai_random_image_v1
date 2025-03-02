@@ -41,6 +41,7 @@ def initialize(image_path):
         st.session_state["user_uuid"] = user_uuid
         st.session_state["start_time"] = start_time
         st.session_state["assistant_response"] = assistant_response
+        
         st.session_state["saved_image"] = image_path
 
         #save_state_json()
@@ -72,19 +73,25 @@ def main():
                 image_placeholder=st.empty() #this is a placeholder for image upload
                 with image_placeholder:
                     print('inside image placeholder')
-                    uploaded_file_1 = st.file_uploader("Bitte laden Sie Ihr Foto hoch", type=["png", "jpg", "jpeg"])
+                    if uploaded_file_1 := st.file_uploader("Bitte laden Sie Ihr Foto hoch", type=["png", "jpg", "jpeg"]):
                     #uploaded_file_1=st.camera_input("Upload your Image here",label_visibility="collapsed")
+                        st.session_state["file_uploaded"] = True
+
                     if uploaded_file_1:
-                         st.session_state["file_uploaded"] = True
+                     with st.status("Uploading Image"):
+                        st.write("Saving Image..")
+                        
+                        save_upload_images(uploaded_file_1)
+                        image_path = st.session_state["saved_image"]
 
-                    uploaded_file=uploaded_file_1
-
-
-                    if uploaded_file:
-                        print('before save upload images')
-                        save_upload_images(uploaded_file) #saved image into uploaded_images folder
-                        image_path = st.session_state["saved_image"] #update state.saved_image with image path
-                        initialize(image_path)  #Pass the image path during initialization
+                        st.write("Sending data to Agent..")
+                        initialize(image_path)
+                        
+                        
+                        # save_upload_images(uploaded_file_1) #saved image into uploaded_images folder
+                        # image_path = st.session_state["saved_image"] #update state.saved_image with image path
+                        # initialize(image_path)  #Pass the image path during initialization
+        
         if st.session_state['file_uploaded']:
             st.subheader("Schildern Sie dem Assistenten Ihre Situation. Sie können auch einen Termin bei unserem Arzt buchen", divider="grey")
             decision() #this loads the chat and buttons
@@ -93,12 +100,16 @@ def main():
 
             save_state_json()
     elif st.session_state["page"] == "thanks":
-        image_path = st.session_state["saved_image"]
-        uuid = st.session_state.get("user_uuid")
-        Sciebo.upload_image(image_path,uuid)
-        Sciebo.upload_state_data(uuid)
         save_state_json()
         thank_you_page()
+        image_path = st.session_state["saved_image"]
+        uuid = st.session_state.get("user_uuid")
+        with st.status('Ihre Daten sicher bei uns speichern 😊'): 
+            st.write("Saving Image to Sciebo")
+            Sciebo.upload_image(image_path,uuid)
+            st.write("Saving Suvery info to Sciebo")
+            Sciebo.upload_state_data(uuid)
+      
 
 
 if __name__ == "__main__":
