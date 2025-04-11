@@ -24,6 +24,6 @@ def decision():
         width=250
         resized_image = image.resize((height,width))
         #st.image(resized_image, caption="Uploaded Image", use_column_width=True)
-        st.image(resized_image, caption="Hochgeladenes Bild",use_container_width=True)
+        st.image(resized_image, caption="Hochgeladenes Bild",use_column_width=True)
         #st.markdown('</div>', unsafe_allow_html=True)
 
