@@ -1,3 +1,6 @@
+import streamlit as st
+
+
 OPENAI_API_KEY = st.secrets["openai"]["SECRET_KEY"]
 ASSISTANT_ID = None
 UPLOAD_FOLDER=st.secrets["server"]["UPLOAD_FOLDER"]
