@@ -51,9 +51,10 @@ def survey():
     with st.form(key="my_form"):
         st.markdown("Bitte geben Sie Ihre ID ein")
         name = st.text_input("ID", value=st.session_state["survey"].get("ID", ""))
-        age = st.number_input("Alter", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
+        #age = st.number_input("Alter", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
+       # age = st.number_input("Alter", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
 
-        gender = st.radio("Geschlecht", ["Männlich", "Weiblich"],
+        gender = st.radio("Geschlecht", ["Männlich", "Weiblich", "Divers", "Keine Angabe"],
                           index=0 if st.session_state["survey"].get("gender", "Männlich") == "Männlich" else 1)
 
         # Abfrage nach Hautfarbe
