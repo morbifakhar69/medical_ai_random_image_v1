@@ -80,7 +80,6 @@ def survey():
         
         else:
             st.session_state["survey"]["name"] = name
-            st.session_state["survey"]["age"] = age
             st.session_state["survey"]["gender"] = gender
             st.session_state["survey"]["skin_color"] = skin_color
             st.session_state["survey"].update(responses)

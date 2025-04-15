@@ -41,7 +41,7 @@ def normalize_skin_color(skin_color,gender):
     if gender=='Männlich':
         gen="m"
     elif gender=="Weiblich":
-        gen="w"
+        gen="f"
     else: gen="o"
 
     return color, gen
