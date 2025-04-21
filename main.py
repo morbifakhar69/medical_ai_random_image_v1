@@ -77,6 +77,7 @@ def main():
             image_path = get_images(skin_color,gender)
             print('In Chat page: ',image_path)
             with st.container():
+                    st.title('Bild und Chat')
                     #this is a placeholder for image upload
                     st.session_state["saved_image"]=image_path  #update state.saved_image with image path
                     
