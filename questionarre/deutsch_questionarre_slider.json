@@ -1,48 +1,52 @@
 [
     {
-        "question": "Ich beachte Schmerzen stärker als die meisten anderen Menschen (in meinem Alter)."
+        "question": "Ich verbringe viel Zeit damit mir Sorgen um meine Gesundheit zu machen."
     },
     {
-        "question":   "Mir sind körperliche Empfindungen oder Veränderungen oft bewusst."
+        "question":   "Ich beachte Schmerzen stärker als die meisten anderen Menschen (in meinem Alter)."
     },
     {
-        "question":  "Oft gelingt es mir nicht, mich gegen Gedanken an Krankheit zu wehren."
+        "question":  "Ich achte permanent auf körperliche Empfindungen und Veränderungen."
     },
     {
-        "question":  "Ich habe oft Angst, eine ernsthafte Krankheit zu haben."
+        "question":  "Ich versuche mich oft gegen Gedanken an Krankheit zu wehren, schaffe es aber oft nicht."
     },
     {
-        "question": "Mir kommen regelmäßig Bilder in den Sinn, in denen ich mich als krank sehe."
+        "question": "Ich habe oft Angst, eine ernsthafte Krankheit zu haben."
  
     },
     {
-        "question": "Es fällt mir oft schwer, mich von Gedanken über meine Gesundheit abzulenken."
+        "question": "Mir kommen regelmäßig Bilder in den Sinn, in denen ich mich als krank sehe."
 
     },
     {
-        "question":"Ich bin zunächst erleichtert, aber die Sorgen kehren immer nach einiger Zeit zurück."
+        "question":"Es fällt mir oft schwer, mich von Gedanken über meine Gesundheit abzulenken.Es fällt mir oft schwer, mich von Gedanken über meine Gesundheit abzulenken."
         
     },
     {
-        "question": "Wenn ich von einer Krankheit höre, denke ich oft, dass ich diese Krankheit haben könnte."
+        "question": "Ich bin zunächst erleichtert, wenn mir mein Arzt versichert, dass alles in Ordnung ist, aber die Sorgen kehren immer nach einiger Zeit zurück."
    
     },
     {
-        "question":  "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, frage ich mich immer, was es bedeutet."
+        "question":  "Wenn ich von einer Krankheit höre, denke ich oft, dass ich diese Krankheit haben könnte."
     },
     {
-        "question":   "Allgemein habe ich das Gefühl, dass ich ein mittleres Risiko habe, eine ernsthafte Krankheit zu entwickeln."
+        "question":   "Wenn ich eine körperliche Empfindung oder Veränderung bemerke, würde ich am liebsten sofort ärztlich abklären lassen, dass ich keine ernsthafte Krankheit habe."
 
     },
     {
-        "question": "Ich denke oft, dass ich eine ernsthafte Krankheit haben könnte."
+        "question": "Gewöhnlich gehe ich davon aus, dass ich ein hohes Risiko habe, eine ernsthafte Krankheit zu entwickeln"
     
     },
     {
-        "question":  "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir oft schwer, an etwas anderes zu denken."
+        "question":  "Ich denke oft, dass ich eine ernsthafte Krankheit haben könnte."
+    },
+    {
+        "question": "Wenn ich eine unklare körperliche Empfindung spüre, fällt es mir oft schwer, an andere Dinge zu denken."
     },
     {
         "question": "Meine Familie/meine Freunde würden sagen, dass ich mir zu viele Sorgen um meine Gesundheit mache."
     }
+    
 
 ]

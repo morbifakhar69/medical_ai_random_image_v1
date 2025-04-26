@@ -11,6 +11,7 @@ class XAIAssistant:
         Otherwise, it creates a new assistant with predefined instructions.
         """
         self.client = openai.OpenAI(api_key=OPENAI_API_KEY)
+        print('Open AI key: ',OPENAI_API_KEY)
         self.thread = None
         self.messages = []
         self.survey_data = survey_data if survey_data else {}
@@ -24,7 +25,7 @@ class XAIAssistant:
         if assistant_id:
             self.assistant = self.client.beta.assistants.retrieve(assistant_id)
         else:
-            with open("instructions.txt", "r", encoding="utf-8") as f:
+            with open("instructions_t.txt", "r", encoding="utf-8") as f:
                 instructions = f.read()
 
             self.assistant = self.client.beta.assistants.create(

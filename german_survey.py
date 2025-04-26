@@ -37,13 +37,12 @@ def survey():
              ]
 
     #st.subheader("Fragebogen", divider='gray')
-    st.markdown("Im Folgenden finden Sie 14 Aussagen. \nBitte wählen Sie aus, inwiefern diese auf Sie zutreffen.")
     
     responses= {}
     # with st.form(key="my_form"):
     #     for idx, q in enumerate(questions):
     #         q_key = f"q{idx + 1}"
-    #         selected_option = st.select_slider( q["question"], options = options, key= q_key, value = st.session_state["survey"].get(q_key,options[3]))
+    #         selected_option = st.select_slider( q["question"], options = options_final, key= q_key, value = "Neutral")
     #         st.session_state["survey"]["responses"][q_key] = selected_option
     #         st.subheader("",divider='gray')
     #         responses[q_key]=selected_option
@@ -58,8 +57,13 @@ def survey():
                           index=0 if st.session_state["survey"].get("gender", "Männlich") == "Männlich" else 1)
 
         # Abfrage nach Hautfarbe
-        skin_color = st.radio("Skin Color", ["Weiß", "Schwarz"],
+        skin_color = st.radio("Hautfarbe", ["Weiß", "Schwarz"],
                               index=0 if st.session_state["survey"].get("skin_color", "Weiß") == "Weiß" else 1)
+        
+        st.subheader("",divider='gray')
+        st.markdown("Lesen Sie bitte jede dieser Aussagen aufmerksam durch und überlegen Sie, ob diese Aussage auf Sie persönlich für die letzten 6 Monate zutrifft oder nicht.")
+        st.markdown("")
+        #st.subheader("",divider='gray')
 
         for idx, q in enumerate(questions):
             q_key = f"q{idx + 1}"
@@ -85,7 +89,7 @@ def survey():
             st.session_state["survey"].update(responses)
             st.session_state["page"] = "chat"
             st.success("Vielen Dank für Ihre Antworten!")
-            st.write("### Ihre Auswahl:")
+            #st.write("### Ihre Auswahl:")
         
 
        
