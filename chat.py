@@ -11,7 +11,6 @@ def appointment_dialog():
         print("Button Clicked")
         st.write(f"You decided for: {st.session_state['button_clicked']}")
         st.session_state["page"] = "thanks"
-        time.sleep(1)
         st.rerun()
     
     if st.button("Nein"):

@@ -53,12 +53,6 @@ def survey():
         #age = st.number_input("Alter", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
        # age = st.number_input("Alter", value=st.session_state["survey"].get("age", 18), min_value=0, max_value=100)
 
-        gender = st.radio("Geschlecht", ["Männlich", "Weiblich", "Divers", "Keine Angabe"],
-                          index=0 if st.session_state["survey"].get("gender", "Männlich") == "Männlich" else 1)
-
-        # Abfrage nach Hautfarbe
-        skin_color = st.radio("Hautfarbe", ["Weiß", "Schwarz"],
-                              index=0 if st.session_state["survey"].get("skin_color", "Weiß") == "Weiß" else 1)
         
         st.subheader("",divider='gray')
         st.markdown("Lesen Sie bitte jede dieser Aussagen aufmerksam durch und überlegen Sie, ob diese Aussage auf Sie persönlich für die letzten 6 Monate zutrifft oder nicht.")
@@ -68,7 +62,7 @@ def survey():
         for idx, q in enumerate(questions):
             q_key = f"q{idx + 1}"
             st.markdown(q["question"])
-            selected_option = st.radio( q["question"],  options_final, key= q_key,index=2, label_visibility="collapsed")
+            selected_option = st.radio( q["question"],  options_final,index=None, label_visibility="collapsed")
             st.session_state["survey"]["responses"][q_key] = selected_option
             st.subheader("",divider='gray')
             responses[q_key]=selected_option
@@ -84,8 +78,8 @@ def survey():
         
         else:
             st.session_state["survey"]["name"] = name
-            st.session_state["survey"]["gender"] = gender
-            st.session_state["survey"]["skin_color"] = skin_color
+            #st.session_state["survey"]["gender"] = gender
+            #st.session_state["survey"]["skin_color"] = skin_color
             st.session_state["survey"].update(responses)
             st.session_state["page"] = "chat"
             st.success("Vielen Dank für Ihre Antworten!")

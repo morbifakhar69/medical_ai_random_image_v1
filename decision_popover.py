@@ -27,3 +27,5 @@ def decision():
         st.image(resized_image, caption="Hochgeladenes Foto",use_column_width=True)
         #st.markdown('</div>', unsafe_allow_html=True)
 
+
+

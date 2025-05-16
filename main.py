@@ -62,32 +62,32 @@ def main():
         save_state_json()
     elif st.session_state["page"] == "chat":
         survey_data = st.session_state.get("survey", {})
-        skin_color = survey_data.get("skin_color", "default")
-        gender=survey_data.get("gender", "o")
-        print(skin_color)  # Assuming "skin_color" is the key for the skin color data
-        print(f"skin: {skin_color} and gender: {gender}")
-        image_path = get_images(skin_color,gender)
+       #skin_color = survey_data.get("skin_color", "default")
+       # gender=survey_data.get("gender", "o")
+        #print(skin_color)  # Assuming "skin_color" is the key for the skin color data
+        #print(f"skin: {skin_color} and gender: {gender}")
+        #image_path = get_images(skin_color,gender)
+        image_path="skin_images/05ec667cfd8a73d9d51b341af2ca9dc1.jpg"
         print('In Chat page: ',image_path)
         with st.container():
             survey_data = st.session_state.get("survey", {})
-            skin_color = survey_data.get("skin_color", "default")
-            gender=survey_data.get("gender", "o")
-            print(skin_color)  # Assuming "skin_color" is the key for the skin color data
-            print(f"skin: {skin_color} and gender: {gender}")
-            image_path = get_images(skin_color,gender)
+            #skin_color = survey_data.get("skin_color", "default")
+            #gender=survey_data.get("gender", "o")
+            #print(skin_color)  # Assuming "skin_color" is the key for the skin color data
+            #print(f"skin: {skin_color} and gender: {gender}")
+            #image_path = get_images(skin_color,gender)
             print('In Chat page: ',image_path)
-            with st.container():
-                    st.title('Bild und Chat')
+            st.title('Bild und Chat')
                     #this is a placeholder for image upload
-                    st.session_state["saved_image"]=image_path  #update state.saved_image with image path
+            st.session_state["saved_image"]=image_path  #update state.saved_image with image path
                     
-                    with st.status("Bild hochladen, bitte warten.."):
-                        st.write("Daten senden")
-                        initialize(image_path)  #Pass the image path during initialization
+            with st.status("Bild hochladen, bitte warten.."):
+                st.write("Daten senden")
+                initialize(image_path)  #Pass the image path during initialization
                     
-                    decision() #this loads the chat and buttons
-            chat_page()
-            save_state_json()
+        decision() #this loads the chat and buttons
+        chat_page()
+        save_state_json()
 
     elif st.session_state["page"] == "thanks":
         save_state_json()
