@@ -7,7 +7,7 @@ def welcome_page():
     **So funktioniert es:**
     1. **Fragebogen auf der folgenden Seite ausfüllen** – Damit die Interaktion mit dem künstlich intelligenten Assistenten besser auf Sie abgestimmt werden kann. 
     \n
-    2. **Hochgeladenes Foto** -  Sehen Sie sich ein Bild einer auffälligen Hautstelle genau an 
+    2. **Hochgeladenes Foto** -  Sehen Sie sich ein Bild Ihrer auffälligen Hautstelle genau an
     \n
     3. **Mit dem KI-Assistenten chatten** – Interagieren Sie mit dem künstlich intelligenten Assistenten und entscheiden Sie darauf basierend, ob Sie einen Arzttermin vereinbaren möchten.
     """)
