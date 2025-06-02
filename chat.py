@@ -35,7 +35,7 @@ def chat_page():
         st.session_state.messages = st.session_state.assistant.messages
     
     st.subheader("Chat", divider="gray")
-    st.markdown("Bei den Antworten des künstlich intelligenten Assistenten kann es zu zeitlichen Verzögerungen kommen")
+    st.markdown("Lesen Sie bitte jede dieser Aussagen aufmerksam durch und überlegen Sie, ob diese Aussage auf Sie persönlich für die letzten 6 Monate zutrifft oder nicht.")
    # st.markdown("Schildern Sie dem Assistenten Ihre Situation. Sie können auch einen Termin bei unserem Arzt buchen")
 
     with st.chat_message("assistant"): 
