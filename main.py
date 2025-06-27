@@ -94,7 +94,7 @@ def main():
         thank_you_page()
         image_path = st.session_state["saved_image"]
         uuid = st.session_state.get("user_uuid")
-        Sciebo.upload_image(image_path,uuid)
+        #Sciebo.upload_image(image_path,uuid)
         Sciebo.upload_state_data(uuid)
             #st.write("Saving Image to Sciebo")
            # st.write("Saving Suvery info to Sciebo")
