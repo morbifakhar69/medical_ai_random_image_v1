@@ -10,7 +10,7 @@ def clean_latex_formatting(text: str) -> str:
     return cleaned_text
 
 def save_state_json():
-    uuid = st.session_state.get("user_uuid")
+    uuid = st.session_state.get("uuid")
     session_state_dict = {}
     for key, value in st.session_state.items():
         if key not in ["assistant"]:

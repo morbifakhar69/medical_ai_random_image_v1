@@ -30,7 +30,7 @@ class Sciebo:
 
         file_name = os.path.basename(file_path)
         file_extension = os.path.splitext(file_path)[1]
-        sciebo_url = f"{cls.SCIEBO_IMAGE_BASEURL}rn_{uuid}{file_extension}"
+        sciebo_url = f"{cls.SCIEBO_IMAGE_BASEURL}rv1_{uuid}{file_extension}"
 
         try:
             
@@ -67,7 +67,7 @@ class Sciebo:
         try:
             # Convert session state to JSON
             # Upload to Sciebo
-            sciebo_url = f"{cls.SCIEBO_STATE_BASEURL}rn_{json_file_name}"
+            sciebo_url = f"{cls.SCIEBO_STATE_BASEURL}rv1_{json_file_name}"
             with open(json_file_path, "rb") as file:
                 print("UUID of State: ",uuid)
                 print("Sciebo URL of State: ",sciebo_url)
