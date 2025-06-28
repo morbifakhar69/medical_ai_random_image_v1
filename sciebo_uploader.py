@@ -30,7 +30,7 @@ class Sciebo:
 
         file_name = os.path.basename(file_path)
         file_extension = os.path.splitext(file_path)[1]
-        sciebo_url = f"{cls.SCIEBO_IMAGE_BASEURL}rv1_{uuid}{file_extension}"
+        sciebo_url = f"{cls.SCIEBO_IMAGE_BASEURL}r_vt_{uuid}{file_extension}"
 
         try:
             
@@ -67,7 +67,7 @@ class Sciebo:
         try:
             # Convert session state to JSON
             # Upload to Sciebo
-            sciebo_url = f"{cls.SCIEBO_STATE_BASEURL}rv1_{json_file_name}"
+            sciebo_url = f"{cls.SCIEBO_STATE_BASEURL}r_vt_{json_file_name}"
             with open(json_file_path, "rb") as file:
                 print("UUID of State: ",uuid)
                 print("Sciebo URL of State: ",sciebo_url)
@@ -80,7 +80,7 @@ class Sciebo:
             if response.status_code in [201, 204]:
                 pass
             else:
-                st.error(f"❌ Failed session: {response.status_code}")
+                st.error(f"❌ Failed session: {response.status_code} {response}")
 
         except Exception as e:
             st.error(f"⚠️ Error ession state: {str(e)}")
